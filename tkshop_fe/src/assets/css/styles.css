@@ -1,0 +1,37 @@
+/* Product detail page */
+
+.product-detail-discount {
+  counter-reset: item;
+}
+
+.product-detail-discount li {
+  display: flex;
+  align-items: start;
+  border-radius: 20px;
+}
+
+.product-detail-discount li::before {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  max-width: 20px;
+  max-height: 20px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+  margin-top: 3px;
+  content: counter(item);
+  counter-increment: item;
+  font-size: 14px;
+  background-color: #0037af !important;
+}
+
+.product-detail-discount li::marker {
+  content: "";
+}
+
+.product-detail-discount li:hover {
+  background-color: #e1e8ff;
+}

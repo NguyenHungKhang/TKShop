@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "password": "123456789",
+  "firstname": "Khang",
+  "lastname": "Nguyễn Hưng",
+  "email": "nguyenhungkhang@gmail.com",
+  "avatar": "assets/images/img_logo_60px.png",
+  "birth": {
+    "$date": "2002-01-01T15:07:00.000Z"
+  },
+  "emptypassword": false,
+  "phone": "013452648",
+  "role": "admin",
+  "status": "inActive"
+},
+{
+  "_id": {
+    "$oid": "652a07a9ae659029aeb587a4"
+  },
+  "password": "123456789",
+  "firstname": "Tuyến",
+  "lastname": "Nguyễn Thiện",
+  "email": "thientuyen1@gmail.com",
+  "avatar": "assets/images/img_logo_60px.png",
+  "birth": {
+    "$date": "2002-01-01T15:07:00.000Z"
+  },
+  "emptypassword": false,
+  "phone": "013452648",
+  "role": "user",
+  "status": "inActive"
+},
+{
+  "_id": {
+    "$oid": "652a07b6ae659029aeb587a5"
+  },
+  "password": "123456789",
+  "firstname": "A",
+  "lastname": "Nguyễn Hưng",
+  "email": "hunga@gmail.com",
+  "avatar": "assets/images/img_logo_60px.png",
+  "birth": {
+    "$date": "2002-01-01T15:07:00.000Z"
+  },
+  "emptypassword": false,
+  "phone": "013452648",
+  "role": "user",
+  "status": "inActive"
+},
+{
+  "_id": {
+    "$oid": "6537b0def1fcccea5216692c"
+  },
+  "firstname": "Khánh",
+  "email": "nhk@gmail.com",
+  "phone": "0971211817",
+  "role": "customer",
+  "status": "inactive",
+  "avatar": "assets/images/img_logo_60px.png",
+  "birth": {
+    "$date": "2002-01-01T15:07:00.000Z"
+  },
+  "address": [],
+  "createdAt": {
+    "$date": "2023-10-24T11:56:14.974Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-24T11:56:14.974Z"
+  },
+  "slug": "nhk-gmail-com"
+},
+{
+  "_id": {
+    "$oid": "6537c94052c574f83210452c"
+  },
+  "firstname": "A",
+  "email": "hungkkkka@gmail.com",
+  "phone": "0971211818",
+  "role": "customer",
+  "status": "inactive",
+  "avatar": "assets/images/img_logo_60px.png",
+  "birth": {
+    "$date": "2002-01-01T15:07:00.000Z"
+  },
+  "address": [],
+  "createdAt": {
+    "$date": "2023-10-24T13:40:16.646Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-24T13:40:16.646Z"
+  },
+  "slug": "hungkkkka-gmail-com"
+}]

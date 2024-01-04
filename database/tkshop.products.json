@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "652b8717bce7b47d84a97076"
+  },
+  "desc": "Mo ta cho Laptop Asus TUF Gaming F15",
+  "name": "Laptop Asus TUF Gaming F15",
+  "overSpecs": [
+    {
+      "key": "RAM",
+      "values": [
+        "8GB",
+        "16GB"
+      ]
+    },
+    {
+      "key": "Card đồ họa",
+      "values": [
+        "NVIDIA GeForce GTX 1650",
+        "NVIDIA Geforce Gtx 1050ti"
+      ]
+    }
+  ],
+  "video": "https://www.youtube.com/watch?v=GtF2uJXlnrU",
+  "detailSpecs": [
+    {
+      "groupName": "RAM",
+      "groupList": [
+        {
+          "key": "Dung lượng",
+          "values": [
+            "8GB",
+            "16GB"
+          ]
+        },
+        {
+          "key": "Loại RAM",
+          "values": [
+            "8GB DDR4 2933MHz"
+          ]
+        }
+      ]
+    }
+  ],
+  "specPicture": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/h/5h03.png",
+  "warrantyPeriod": 12,
+  "brand": {
+    "$oid": "652a0ddeae659029aeb587b4"
+  },
+  "category": {
+    "$oid": "652a082bae659029aeb587a8"
+  },
+  "categorySub1": "",
+  "categorySub2": "",
+  "categorySub3": "",
+  "views": 1231231231,
+  "rate": {
+    "_id": {
+      "$oid": "652d12ffb2cfbcff5aae1cd7"
+    },
+    "ip": "26.157.79.102",
+    "star": 3
+  },
+  "policies": [
+    "Bảo hành 12 tháng"
+  ],
+  "hightLightPics": [
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/1/2/12_5_11.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/1/4/14_2_23.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/1/7/17_2_20.jpg"
+  ],
+  "variants": [
+    {
+      "sku": "LTUFF15B",
+      "variantName": "Đen",
+      "slug": "",
+      "images": [
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https…",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/1/4/14_2_23.jpg",
+        "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/1/7/17_2_20.jpg"
+      ],
+      "addOverSpecs": [
+        ""
+      ],
+      "adđetailSpecs": [
+        ""
+      ],
+      "marketPrice": 19790000,
+      "price": 19790000,
+      "quantity": 100,
+      "sold": 20,
+      "thumbnail": "https://cdn2.cellphones.com.vn/x/media/catalog/product/5/h/5h03.png"
+    }
+  ],
+  "maxPrice": 21000000,
+  "minPrice": 19790000,
+  "isHide": false,
+  "isOutOfStock": false,
+  "createdBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "updatedBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+}]

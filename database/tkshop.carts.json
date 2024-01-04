@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "652d24d9b2cfbcff5aae1cf5"
+  },
+  "user": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "items": [
+    {
+      "productId": "652b8717bce7b47d84a97076",
+      "sku": "",
+      "updatedAt": {
+        "$date": "2023-10-16T17:00:00.000Z"
+      },
+      "quantity": 1
+    }
+  ]
+}]

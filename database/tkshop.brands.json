@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "652a0ddeae659029aeb587b4"
+  },
+  "country": "Việt Nam",
+  "createBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "desc": "Dellllll",
+  "headQuarters": "tpHCM",
+  "hide": false,
+  "img": "assets/images/img_logo_60px.png",
+  "name": "Dell",
+  "quantity": "25",
+  "updateBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "652a0ea3ae659029aeb587b5"
+  },
+  "country": "Việt Nam",
+  "createBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "desc": "Asus",
+  "headQuarters": "tpHCM",
+  "hide": false,
+  "img": "assets/images/img_logo_60px.png",
+  "name": "Asus",
+  "quantity": "25",
+  "updateBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "652a0eaaae659029aeb587b6"
+  },
+  "country": "Việt Nam",
+  "createBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "desc": "Acerrrr",
+  "headQuarters": "tpHCM",
+  "hide": false,
+  "img": "assets/images/img_logo_60px.png",
+  "name": "Acer",
+  "quantity": "25",
+  "updateBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "652a0edfae659029aeb587b7"
+  },
+  "country": "Việt Nam",
+  "createBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "desc": "Lenovooo",
+  "headQuarters": "tpHCM",
+  "hide": false,
+  "img": "assets/images/img_logo_60px.png",
+  "name": "Lenovo",
+  "quantity": "25",
+  "updateBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "652d2271b2cfbcff5aae1cde"
+  },
+  "product": {
+    "$oid": "652b8717bce7b47d84a97076"
+  },
+  "author": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "anonymousAuthor": {
+    "name": "Ngô Hữu Khánh",
+    "email": "ngohuukhanh@gmail.com",
+    "phone": "0123456789"
+  },
+  "content": "Hay lỗi vặt",
+  "star": 4,
+  "replies": "",
+  "likes": 12
+},
+{
+  "_id": {
+    "$oid": "652d240db2cfbcff5aae1cf3"
+  },
+  "product": {
+    "$oid": "652b8717bce7b47d84a97076"
+  },
+  "author": {
+    "$oid": "652a07a9ae659029aeb587a4"
+  },
+  "anonymousAuthor": {
+    "name": "Ngô Hữu Khánh",
+    "email": "ngohuukhanh@gmail.com",
+    "phone": "0123456789"
+  },
+  "content": "Đúng thật, lâu lâu mình dính lỗi wifi",
+  "star": 4,
+  "replies": {
+    "$oid": "652d2271b2cfbcff5aae1cde"
+  },
+  "likes": 4
+}]

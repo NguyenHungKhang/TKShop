@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "652a082bae659029aeb587a8"
+  },
+  "createBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "desc": "Laptoppp",
+  "hide": false,
+  "img": "assets/images/img_logo_60px.png",
+  "name": "laptop",
+  "parent": {
+    "$oid": "652a0d08ae659029aeb587ae"
+  },
+  "quantity": 0,
+  "updateBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "652a0d62ae659029aeb587af"
+  },
+  "createBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "desc": "Tai nghe",
+  "hide": false,
+  "img": "assets/images/img_logo_60px.png",
+  "name": "Tai nghe",
+  "parent": {
+    "$oid": "652a0d08ae659029aeb587ae"
+  },
+  "quantity": 0,
+  "updateBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "652a0d90ae659029aeb587b0"
+  },
+  "createBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "desc": "Bàn phímmm",
+  "hide": false,
+  "img": "assets/images/img_logo_60px.png",
+  "name": "Bàn phím",
+  "parent": {
+    "$oid": "652a0d08ae659029aeb587ae"
+  },
+  "quantity": 0,
+  "updateBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "652a0dadae659029aeb587b1"
+  },
+  "createBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "desc": "Chuộtttt",
+  "hide": false,
+  "img": "assets/images/img_logo_60px.png",
+  "name": "Chuột",
+  "parent": {
+    "$oid": "652a0d08ae659029aeb587ae"
+  },
+  "quantity": 0,
+  "updateBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+},
+{
+  "_id": {
+    "$oid": "652a0dbbae659029aeb587b2"
+  },
+  "createBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "desc": "Dây sạcccc",
+  "hide": false,
+  "img": "assets/images/img_logo_60px.png",
+  "name": "Dây sạc",
+  "parent": {
+    "$oid": "652a0d08ae659029aeb587ae"
+  },
+  "quantity": 0,
+  "updateBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  }
+}]

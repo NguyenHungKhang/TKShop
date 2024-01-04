@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "652d4f19fa82635792cc931e"
+  },
+  "customer": {
+    "type": {
+      "name": "Nguyen Hung Khang",
+      "phone": "0971211817"
+    }
+  },
+  "user": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "isReceiveAtStore": false,
+  "status": "Đang chờ lấy hàng",
+  "paymentStatus": "Đang chờ trả",
+  "items": [
+    {
+      "productId": {
+        "$oid": "652d5816fa82635792cc933a"
+      },
+      "sku": "LTUFF15B",
+      "productName": "Laptop Asus TUF Gaming F15",
+      "variantName": "Đen",
+      "thumbnail": "",
+      "marketPrice": 19790000,
+      "pricePerUnit": 19790000,
+      "quantity": 1
+    }
+  ],
+  "createdBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "discount": {
+    "$oid": "652d5461fa82635792cc932b"
+  },
+  "shippingFee": 30000,
+  "subTotal": 19790000,
+  "total": 19820000,
+  "updatedBy": {
+    "$oid": "64fa78116bfec00bbae824bb"
+  },
+  "payment": {
+    "$oid": "652d53dcfa82635792cc9323"
+  }
+}]
