@@ -6,7 +6,7 @@
         "start": "node ./app.js"
     },
     "dependencies": {
-        "axios": "^1.6.0",
+        "axios": "^1.6.8",
         "bcrypt": "^5.1.1",
         "bcryptjs": "^2.4.3",
         "cloudinary": "^1.41.0",
@@ -24,7 +24,7 @@
         "http-status": "^1.7.3",
         "jade": "~1.11.0",
         "jsonwebtoken": "^9.0.2",
-        "mongoose": "^7.6.2",
+        "mongoose": "^8.0.0",
         "mongoose-lean-virtuals": "^0.9.1",
         "mongoose-slug-updater": "^3.3.0",
         "morgan": "~1.9.1",
