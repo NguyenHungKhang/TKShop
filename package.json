@@ -3,12 +3,12 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.11",
-    "@mui/material": "^5.14.11",
-    "@mui/styled-engine-sc": "^5.14.11",
+    "@mui/material": "^7.0.0",
+    "@mui/styled-engine-sc": "^7.0.0",
     "react-quill": "^2.0.0",
-    "react-redux": "^8.1.2",
+    "react-redux": "^9.0.0",
     "react-router-dom": "^6.20.1",
-    "redux": "^4.2.1",
+    "redux": "^5.0.0",
     "redux-thunk": "^2.4.2",
     "styled-components": "^5.3.11"
   }
