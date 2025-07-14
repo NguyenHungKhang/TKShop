@@ -14,7 +14,7 @@
     "@mui/material": "^5.14.18",
     "@mui/material-next": "^6.0.0-alpha.110",
     "@mui/styled-engine-sc": "^5.14.11",
-    "@mui/styles": "^5.14.18",
+    "@mui/styles": "^5.18.0",
     "@mui/x-data-grid": "^6.16.1",
     "@mui/x-date-pickers": "^6.16.1",
     "@mui/x-date-pickers-pro": "^6.16.1",
